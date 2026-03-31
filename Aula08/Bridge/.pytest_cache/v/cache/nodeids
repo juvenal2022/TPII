@@ -1,0 +1,5 @@
+[
+  "controle_remoto_test.py::test_tv_ligar",
+  "controle_remoto_test.py::test_radio_volume",
+  "controle_remoto_test.py::test_tv_desligar"
+]
